@@ -1,1 +1,1 @@
-# Math_in_js
+# Simple Mathematics
